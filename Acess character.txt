@@ -1,0 +1,12 @@
+// C++ program to implement
+// the operator[]
+#include <iostream>
+using namespace std;
+
+// Driver code
+int main()
+{
+    string str("GeeksforGeeks");
+    cout << str[4];
+    return 0;
+}
