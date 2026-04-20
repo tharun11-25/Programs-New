@@ -2,7 +2,7 @@
 // the operator[]   
 #include <iostream> 
 using namespace std;  
- 
+  
 // Driver code
 int main() 
 {
