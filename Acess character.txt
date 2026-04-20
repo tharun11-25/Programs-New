@@ -9,4 +9,4 @@ int main()
     string str("GeeksforGeeks");  
     cout << str[4];
     return 0;
-} 
+}  
