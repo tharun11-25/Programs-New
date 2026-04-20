@@ -1,5 +1,5 @@
 // C++ program to implement
-// the operator[]  
+// the operator[]   
 #include <iostream> 
 using namespace std; 
 
