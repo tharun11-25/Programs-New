@@ -4,7 +4,7 @@
 using namespace std;   
     
 // Driver code
-int main() 
+int main()  
 {
     string str("GeeksforGeeks");   
     cout << str[4]; 
