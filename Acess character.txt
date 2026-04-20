@@ -7,6 +7,6 @@ using namespace std;
 int main() 
 {
     string str("GeeksforGeeks");  
-    cout << str[4];
+    cout << str[4]; 
     return 0;
 }  
