@@ -6,7 +6,7 @@ using namespace std;
 // Driver code
 int main() 
 {
-    string str("GeeksforGeeks");  
+    string str("GeeksforGeeks");   
     cout << str[4]; 
     return 0;
 }  
